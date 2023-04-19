@@ -28,5 +28,5 @@ Then performs the following tests for each generated struct arrays:
 ## Limitations
 
 This program is limited to:
-- 256 characters per line.
-- 1024 lines of code per file.
+- **256** characters per line.
+- **10240** lines of code per file.
