@@ -1,6 +1,6 @@
 ## A simple C program to check signatures against a `.c` file and a `.h` file
 
-A C program who take two arguments, -c which is the `.c` file to open and -h which the `.h` file to open.
+A C program who take two arguments, `-c` which is the `.c` file to open and `-h` which the `.h` file to open.
 
 - stop if the `.c` file is not found or if the `.h` file is not found. it means there is nothing to compare.
 - raise an error if the given arguments are not correct.
@@ -19,4 +19,8 @@ Then performs the following tests for each generated struct arrays:
 
 - if all signatures in the `.c` file are present in the `.h` file AND all the signatures in the h file are present in the c file are present, print a success message.
 
+## Usage
 
+```bash
+./check_sign -c test.c -h test.h
+```
