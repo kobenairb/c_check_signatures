@@ -5,7 +5,7 @@ A C program who take two arguments, -c which is the `.c` file to open and -h whi
 - raise an error if the `.c` file is not found or if the `.h` file is not found.
 - raise an error if the given arguments are not correct.
 
-Parse each files, so the `.c` file and the `.h` file and store the result of each in a separate structs:
+Parse each files *(see `types.txt` for a full list of parsed tokens)*, so the `.c` file and the `.h` file and store the result of each in a separate structs:
 
 - raise an error if the parsing fails for any reason.
 
