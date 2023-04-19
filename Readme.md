@@ -24,3 +24,9 @@ Then performs the following tests for each generated struct arrays:
 ```bash
 ./check_sign -c test.c -h test.h
 ```
+
+## Limitations
+
+This program is limited to:
+- 256 characters per line.
+- 1024 lines of code per file.
