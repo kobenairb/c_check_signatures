@@ -1,0 +1,31 @@
+float: returns a single-precision floating-point value
+double: returns a double-precision floating-point value
+long: returns a long integer
+short: returns a short integer
+unsigned int: returns an unsigned integer
+unsigned char: returns an unsigned character
+struct: returns a user-defined structure
+enum: returns a user-defined enumerated type
+char: returns a character or a string
+void: does not return a value
+int: returns an integer value
+extern int: declares a variable with external linkage and type int
+extern char: declares a variable with external linkage and type char
+extern float: declares a variable with external linkage and type float
+extern double: declares a variable with external linkage and type double
+extern long: declares a variable with external linkage and type long
+extern short: declares a variable with external linkage and type short
+extern unsigned int: declares a variable with external linkage and type unsigned int
+extern unsigned char: declares a variable with external linkage and type unsigned char
+extern struct: declares a variable with external linkage and type struct
+extern enum: declares a variable with external linkage and type enum
+static int: declares a static variable with internal linkage and type int
+static char: declares a static variable with internal linkage and type char
+static float: declares a static variable with internal linkage and type float
+static double: declares a static variable with internal linkage and type double
+static long: declares a static variable with internal linkage and type long
+static short: declares a static variable with internal linkage and type short
+static unsigned int: declares a static variable with internal linkage and type unsigned int
+static unsigned char: declares a static variable with internal linkage and type unsigned char
+static struct: declares a static variable with internal linkage and type struct
+static enum: declares a static variable with internal linkage and type enum

@@ -1,0 +1,31 @@
+float
+double
+long
+short
+unsigned int
+unsigned char
+struct
+enum
+char
+void
+int
+extern int
+extern char
+extern float
+extern double
+extern long
+extern short
+extern unsigned int
+extern unsigned char
+extern struct
+extern enum
+static int
+static char
+static float
+static double
+static long
+static short
+static unsigned int
+static unsigned char
+static struct
+static enum
