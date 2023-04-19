@@ -1,0 +1,16 @@
+# logs, coredump, objects...
+vgcore.*
+*.log
+*.o
+*.out
+*.txt
+*.bck
+
+# vscode
+.vscode
+
+# Binary
+check_sign
+
+# Custom tests
+tests/**
